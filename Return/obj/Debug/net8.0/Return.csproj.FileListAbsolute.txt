@@ -1,0 +1,15 @@
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Return\bin\Debug\net8.0\Return.exe
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Return\bin\Debug\net8.0\Return.deps.json
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Return\bin\Debug\net8.0\Return.runtimeconfig.json
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Return\bin\Debug\net8.0\Return.dll
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Return\bin\Debug\net8.0\Return.pdb
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Return\obj\Debug\net8.0\Return.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Return\obj\Debug\net8.0\Return.AssemblyInfoInputs.cache
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Return\obj\Debug\net8.0\Return.AssemblyInfo.cs
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Return\obj\Debug\net8.0\Return.csproj.CoreCompileInputs.cache
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Return\obj\Debug\net8.0\Return.sourcelink.json
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Return\obj\Debug\net8.0\Return.dll
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Return\obj\Debug\net8.0\refint\Return.dll
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Return\obj\Debug\net8.0\Return.pdb
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Return\obj\Debug\net8.0\Return.genruntimeconfig.cache
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Return\obj\Debug\net8.0\ref\Return.dll
