@@ -1,0 +1,15 @@
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Ifelse\bin\Debug\net8.0\Ifelse.exe
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Ifelse\bin\Debug\net8.0\Ifelse.deps.json
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Ifelse\bin\Debug\net8.0\Ifelse.runtimeconfig.json
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Ifelse\bin\Debug\net8.0\Ifelse.dll
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Ifelse\bin\Debug\net8.0\Ifelse.pdb
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Ifelse\obj\Debug\net8.0\Ifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Ifelse\obj\Debug\net8.0\Ifelse.AssemblyInfoInputs.cache
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Ifelse\obj\Debug\net8.0\Ifelse.AssemblyInfo.cs
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Ifelse\obj\Debug\net8.0\Ifelse.csproj.CoreCompileInputs.cache
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Ifelse\obj\Debug\net8.0\Ifelse.sourcelink.json
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Ifelse\obj\Debug\net8.0\Ifelse.dll
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Ifelse\obj\Debug\net8.0\refint\Ifelse.dll
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Ifelse\obj\Debug\net8.0\Ifelse.pdb
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Ifelse\obj\Debug\net8.0\Ifelse.genruntimeconfig.cache
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Ifelse\obj\Debug\net8.0\ref\Ifelse.dll
