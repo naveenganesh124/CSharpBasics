@@ -1,0 +1,15 @@
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Whileloop\obj\Debug\net8.0\Whileloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Whileloop\obj\Debug\net8.0\Whileloop.AssemblyInfoInputs.cache
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Whileloop\obj\Debug\net8.0\Whileloop.AssemblyInfo.cs
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Whileloop\obj\Debug\net8.0\Whileloop.csproj.CoreCompileInputs.cache
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Whileloop\obj\Debug\net8.0\Whileloop.sourcelink.json
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Whileloop\bin\Debug\net8.0\Whileloop.exe
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Whileloop\bin\Debug\net8.0\Whileloop.deps.json
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Whileloop\bin\Debug\net8.0\Whileloop.runtimeconfig.json
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Whileloop\bin\Debug\net8.0\Whileloop.dll
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Whileloop\bin\Debug\net8.0\Whileloop.pdb
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Whileloop\obj\Debug\net8.0\Whileloop.dll
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Whileloop\obj\Debug\net8.0\refint\Whileloop.dll
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Whileloop\obj\Debug\net8.0\Whileloop.pdb
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Whileloop\obj\Debug\net8.0\Whileloop.genruntimeconfig.cache
+C:\Users\n.d.selvaraj\source\repos\CSharpBasics\Whileloop\obj\Debug\net8.0\ref\Whileloop.dll
